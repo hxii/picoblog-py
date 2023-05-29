@@ -1,0 +1,7 @@
+ibis==3.2.0
+minify_html==0.11.1
+mistletoe==1.0.1
+pip==22.3.1
+python-dateutil==2.8.2
+setuptools==65.5.0
+six==1.16.0
